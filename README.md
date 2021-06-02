@@ -10,6 +10,8 @@
 </samp>
 </br></br>
 <samp>
-
+ <p align="center">
+<img src="https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/media/implement-api-gateways-with-ocelot/eshoponcontainers-architecture.png"/>
+</p>
 </samp>
 </br></br>
